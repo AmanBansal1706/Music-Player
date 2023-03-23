@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786379554179",
+    "project_id": "stape-music-player",
+    "storage_bucket": "stape-music-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786379554179:android:523bff776446d4aa70cab6",
+        "android_client_info": {
+          "package_name": "com.example.stapemusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786379554179-ing4apgdtd9gf0sg742v7m8taenv9ggc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCafwnRzpiQnbapMdgFb3fSCcinXWxG1LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786379554179-ing4apgdtd9gf0sg742v7m8taenv9ggc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
